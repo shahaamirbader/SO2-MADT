@@ -21,9 +21,13 @@ Setup the environment for StarCraft II Multi-agent Challenge as per the instruct
 
 ## Getting Started
 
+It is recommended to setup the environment and relevant libraries in Conda. 
+
+Start by first cloning the repo:
 ```bash
 git clone https://github.com/shahaamirbader/SO2-MADT && cd SO2-MADT
 ```
+Then run the code as per the instructions mentioned in the following sections for SMAC and MAMujoco respectively: 
 
 ### SMAC
 ```
