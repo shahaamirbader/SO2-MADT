@@ -9,4 +9,4 @@ Our paper can be accessed via link :
 
 This codebase contains scripts to reproduce experiments. However, the SMAC dataset and MAMujoco datasets will need to be downloaded and installed as per the instructions contained in their respective repos. See following sections for more details. 
 
-[Overview_3.pdf](https://github.com/user-attachments/files/16692665/Overview_3.pdf)
+[Overview_3.pdf](https://github.com/shahaamirbader/SO2-MADT/blob/main/Overview_3.pdf)
