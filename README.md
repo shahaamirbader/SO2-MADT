@@ -7,13 +7,24 @@ Our paper can be accessed via link :
 
 ## Overview 
 
-This codebase contains scripts to reproduce experiments. However, the SMAC dataset and MAMujoco datasets will need to be downloaded and installed as per the instructions contained in their respective repos. See following sections for more details. 
+SO2-MADT is an innovative framework that revolutionizes safety considerations in Multi-agent Reinforcement Learning (MARL) through a novel sequence modeling approach. This codebase contains scripts to reproduce experiments. However, the SMAC dataset and MAMujoco datasets will need to be downloaded and installed as per the instructions contained in their respective repos. See following sections for more details. 
 
 ![Screenshot 2024-08-21 at 9 14 10 AM](https://github.com/user-attachments/assets/d9e0a072-1912-4f20-a3e0-edcaa87e6459)
 
 ## Instructions
 
 We provide code in two sub-directories: `SMAC` containing code for Starcraft II experiments and `MAMujoco`containing code for Multi-Agent Mujoco experiments. 
+
+The implementation is based on [PyMARL](https://github.com/oxwhirl/pymarl) framework. PyMARL is [WhiRL](http://whirl.cs.ox.ac.uk)'s framework for deep multi-agent reinforcement learning. 
+
+Setup the environment for StarCraft II Multi-agent Challenge as per the instructions provided in [SMAC](https://github.com/oxwhirl/smac) repo. While for Multi-Agent Mujoco, setup the environment as per the instructions provided in [MAMujoco](https://github.com/schroederdewitt/multiagent_mujoco) repo. 
+
+## Getting Started
+
+```bash
+git clone https://github.com/shahaamirbader/SO2-MADT && cd SO2-MADT
+pip install -r requirements/requirements.txt
+```
 
 
 ## Acknowledgement
@@ -42,3 +53,7 @@ Please cite our paper as:
   year={2024}
 }
 ```
+
+## License
+
+MIT
