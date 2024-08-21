@@ -23,7 +23,7 @@ Setup the environment for StarCraft II Multi-agent Challenge as per the instruct
 
 ```bash
 git clone https://github.com/shahaamirbader/SO2-MADT && cd SO2-MADT
-pip install -r requirements/requirements.txt
+pip install -r Requirements/requirements.txt
 ```
 
 
