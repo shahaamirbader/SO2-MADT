@@ -9,7 +9,8 @@ Our paper can be accessed via link :
 
 SO2-MADT is an innovative framework that revolutionizes safety considerations in Multi-agent Reinforcement Learning (MARL) through a novel sequence modeling approach. This codebase contains scripts to reproduce experiments. However, the SMAC dataset and MAMujoco datasets will need to be downloaded and installed as per the instructions contained in their respective repos. See following sections for more details. 
 
-[Overview_4.pdf](https://github.com/user-attachments/files/17092132/Overview_4.pdf)
+![Overview_4](https://github.com/user-attachments/assets/87cdb95f-aafa-43cc-aec9-2616a5f4769e)
+
 
 
 ## Instructions
