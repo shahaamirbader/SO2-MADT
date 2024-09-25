@@ -1,3 +1,5 @@
+The code is still being organized.🚧
+
 # SO2-MADT
 
 This is the code repository for our paper titled "Safe Offline-to-Online Multi-Agent Decision Transformer: A Safety
@@ -71,4 +73,4 @@ Please cite our paper as:
 
 MIT
 
-The code is still being organized.🚧
+
