@@ -5,7 +5,7 @@ The code is still being organized.🚧
 This is the code repository for our paper titled "Safe Offline-to-Online Multi-Agent Decision Transformer: A Safety
 Conscious Sequence Modeling Approach", published in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024.
 
-Our paper can be accessed via link : 
+Our paper can be accessed via the link : 
 
 ## Overview 
 
